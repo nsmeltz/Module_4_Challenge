@@ -10,10 +10,10 @@ District Summary
 School Summary
 ![This is an image](https://github.com/nsmeltz/Module_4_Challenge/blob/c41cf673289c96dde0eddefa9208334ba5e59be9/Resources/per_school_summary.png)
 
-Math Scores by Grade
+Math Scores by Grade                                                                           
 ![This is an image](https://github.com/nsmeltz/Module_4_Challenge/blob/892c2639b6c7992935a766c128df86a09dc1e15a/Resources/math_scores.png)
 
-Reading Scores by Grade
+Reading Scores by Grade                                                              
 ![This is an image](https://github.com/nsmeltz/Module_4_Challenge/blob/892c2639b6c7992935a766c128df86a09dc1e15a/Resources/reading_scores.png)
 
 Scores by school spending
