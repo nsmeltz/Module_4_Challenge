@@ -5,7 +5,10 @@
   
 # Results: Using bulleted lists and images of DataFrames as support, address the following questions.
   - District Summary
-  - 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+  - School Summary
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+  - Math
 # Analysis
 
   - How is the district summary affected?
