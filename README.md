@@ -3,26 +3,26 @@
 # Overview of the school district analysis
   The purpose of this analysis was to analyze data from a school district regarding math and reading scores from multiple high schools in the district. The 9th grade scores   at Thomas High School are inaccurate due to academic dishonesty. This reports aims to describe how these innacurate scores affected the inital analysis of the district's     performance in math and reading. 
   
-# Results: Using bulleted lists and images of DataFrames as support, address the following questions.
-District Summary
+# Results:
+**District Summary**
 ![This is an image](https://github.com/nsmeltz/Module_4_Challenge/blob/760cde5de33c8ef4f9667cc64725d9e584ab0b48/Resources/district_summary.png)
 
-School Summary
+**School Summary**
 ![This is an image](https://github.com/nsmeltz/Module_4_Challenge/blob/c41cf673289c96dde0eddefa9208334ba5e59be9/Resources/per_school_summary.png)
 
-Math Scores by Grade                                                                           
+**Math Scores by Grade**                                                                           
 ![This is an image](https://github.com/nsmeltz/Module_4_Challenge/blob/892c2639b6c7992935a766c128df86a09dc1e15a/Resources/math_scores.png)
 
-Reading Scores by Grade                                                              
+**Reading Scores by Grade**                                                              
 ![This is an image](https://github.com/nsmeltz/Module_4_Challenge/blob/892c2639b6c7992935a766c128df86a09dc1e15a/Resources/reading_scores.png)
 
-Scores by school spending
+**Scores by school spending**
 ![This is an image](https://github.com/nsmeltz/Module_4_Challenge/blob/ef116c404ed464b6013ac2110985d5b0b0df3db0/Resources/scores_spending.png)
 
-Scores by school size
+**Scores by school size**
 ![This is an image](https://github.com/nsmeltz/Module_4_Challenge/blob/ef116c404ed464b6013ac2110985d5b0b0df3db0/Resources/scores_size.png)
 
-Scores by school type
+**Scores by school type**
 ![This is an image](https://github.com/nsmeltz/Module_4_Challenge/blob/ef116c404ed464b6013ac2110985d5b0b0df3db0/Resources/scores_type.png)
 
 # Analysis
