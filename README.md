@@ -6,8 +6,10 @@
 # Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 District Summary
 ![This is an image](https://github.com/nsmeltz/Module_4_Challenge/blob/760cde5de33c8ef4f9667cc64725d9e584ab0b48/Resources/district_summary.png)
+
 School Summary
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://github.com/nsmeltz/Module_4_Challenge/blob/c41cf673289c96dde0eddefa9208334ba5e59be9/Resources/per_school_summary.png)
+
 Math
 # Analysis
 
