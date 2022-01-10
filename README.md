@@ -17,11 +17,13 @@ Reading Scores by Grade
 ![This is an image](https://github.com/nsmeltz/Module_4_Challenge/blob/892c2639b6c7992935a766c128df86a09dc1e15a/Resources/reading_scores.png)
 
 Scores by school spending
+![This is an image](https://github.com/nsmeltz/Module_4_Challenge/blob/892c2639b6c7992935a766c128df86a09dc1e15a/Resources/reading_scores.png)
 
 Scores by school size
+![This is an image](https://github.com/nsmeltz/Module_4_Challenge/blob/892c2639b6c7992935a766c128df86a09dc1e15a/Resources/reading_scores.png)
 
 Scores by school type
-
+![This is an image](https://github.com/nsmeltz/Module_4_Challenge/blob/892c2639b6c7992935a766c128df86a09dc1e15a/Resources/reading_scores.png)
 # Analysis
 
   - How is the district summary affected?
