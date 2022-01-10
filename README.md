@@ -16,13 +16,13 @@
 **Reading Scores by Grade**                                                              
 ![This is an image](https://github.com/nsmeltz/Module_4_Challenge/blob/892c2639b6c7992935a766c128df86a09dc1e15a/Resources/reading_scores.png)
 
-**Scores by school spending**
+**Scores by school spending**                                            
 ![This is an image](https://github.com/nsmeltz/Module_4_Challenge/blob/ef116c404ed464b6013ac2110985d5b0b0df3db0/Resources/scores_spending.png)
 
-**Scores by school size**
+**Scores by school size**                                                   
 ![This is an image](https://github.com/nsmeltz/Module_4_Challenge/blob/ef116c404ed464b6013ac2110985d5b0b0df3db0/Resources/scores_size.png)
 
-**Scores by school type**
+**Scores by school type**                                         
 ![This is an image](https://github.com/nsmeltz/Module_4_Challenge/blob/ef116c404ed464b6013ac2110985d5b0b0df3db0/Resources/scores_type.png)
 
 # Analysis
