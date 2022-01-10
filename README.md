@@ -4,11 +4,11 @@
   The purpose of this analysis was to analyze data from a school district regarding math and reading scores from multiple high schools in the district. The 9th grade scores   at Thomas High School are inaccurate due to academic dishonesty. This reports aims to describe how these innacurate scores affected the inital analysis of the district's     performance in math and reading. 
   
 # Results: Using bulleted lists and images of DataFrames as support, address the following questions.
-  - District Summary
+District Summary
+![This is an image](https://github.com/nsmeltz/Module_4_Challenge/blob/760cde5de33c8ef4f9667cc64725d9e584ab0b48/Resources/district_summary.png)
+School Summary
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-  - School Summary
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-  - Math
+Math
 # Analysis
 
   - How is the district summary affected?
